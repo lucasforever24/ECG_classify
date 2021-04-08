@@ -197,7 +197,7 @@ if __name__ == "__main__":
     # save_ecg_as_array(base_dir, ['left_outflow', 'right_outflow', 'TA', 'lv_papillary'], target_dir)
     normalize_ecg(target_dir,  ['left_outflow', 'right_outflow', 'TA', 'lv_papillary'])
 
-    # normalize_ecg(target_dir, ["AN", "NV"])
+
 
     """
     for f in os.listdir(base_dir):

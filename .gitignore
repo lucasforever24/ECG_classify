@@ -44,7 +44,6 @@ Thumbs.db
 *.svg
 *.ico
 *.npy
-*.txt
 
 
 # data #
@@ -53,3 +52,4 @@ Thumbs.db
 *.pth
 
 data
+results
